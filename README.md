@@ -1,5 +1,5 @@
 # HTML
-HTML (Hyper Text Markup Language) adalah dbahasa markah yang digunakan untuk membuat dan memformat halaman web. Ini adalah bahasa inti yang digunakan untuk membangun truktur dan menampilkan konten pada halaman Web. Berikut adlah beberapa penjelasan dan pelajaran mengenai HTML.
+HTML (Hyper Text Markup Language) adalah bahasa markah yang digunakan untuk membuat dan memformat halaman web. Ini adalah bahasa inti yang digunakan untuk membangun truktur dan menampilkan konten pada halaman Web. Berikut adlah beberapa penjelasan dan pelajaran mengenai HTML.
 
 ## Pengertian HTML
 - HTML adalah singkatan dari HyperText Markup Language.
